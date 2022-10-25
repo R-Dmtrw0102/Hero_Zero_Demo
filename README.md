@@ -1,1 +1,1 @@
-# This is a demmo of Hero Zero game, created by me
+# This is a demo of Hero Zero game, created by me
